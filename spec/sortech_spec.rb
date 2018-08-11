@@ -1,5 +1,5 @@
 require 'spec_helper'
-require_relative '../sortech/lib/sortech'
+require_relative '../lib/sortech'
 
 describe "Sortech Sorting Techniques" do
   let(:sort) {Sortech::Sort}
