@@ -9,6 +9,5 @@ Gem::Specification.new do |s|
   s.files = ["lib/sortech.rb"]
   s.require_paths = ["lib"]
   s.metadata    = { "source_code_uri" => "https://github.com/steady-daddy/sortech" }
-  s.add_development_dependency 'rake'
   s.add_development_dependency 'rspec'
 end

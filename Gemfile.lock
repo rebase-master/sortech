@@ -24,7 +24,6 @@ PLATFORMS
 
 DEPENDENCIES
   rspec (= 3.5.0)
-  rspec-core (= 3.5.4)
 
 BUNDLED WITH
    1.16.3
