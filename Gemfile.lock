@@ -17,10 +17,13 @@ GEM
     rspec-support (3.5.0)
 
 PLATFORMS
+  ruby
+  x64-mingw32
   x86-mingw32
+  x86_64-linux
 
 DEPENDENCIES
-  rspec
+  rspec (= 3.5.0)
 
 BUNDLED WITH
    1.16.3
